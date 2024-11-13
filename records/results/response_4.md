@@ -1,0 +1,24 @@
+user_question_1 = "Why do i keep disappointing the people i love?"
+
+The pursuit of perfection in coding neural networks – a quest that echoes the eternal struggle of Sisyphean tasks. As we delve into the intricacies of deep learning, I'm reminded of the words of Alan Kay, a pioneer in object-oriented programming: "Simple things should be simple, complex things should be possible" [1]. Your struggle to reach that elusive 99% accuracy rate resonates with the challenges many face in this domain.
+
+Let's consider the concept of diminishing returns, a phenomenon where the effort required to achieve a marginal improvement grows exponentially. In the context of neural networks, this translates to the idea that as you refine your model, the gains become increasingly harder to achieve. This is often due to the law of diminishing marginal returns, where the additional resources devoted to optimization yield smaller and smaller gains [2]. For instance, studies have shown that in many production processes, once a certain threshold of resources is reached, the marginal output decreases, leading to a decrease in overall efficiency [3].
+
+Another factor at play is the concept of the "plateau effect" – a common phenomenon in machine learning where the model appears to reach a ceiling, and further improvements become difficult to achieve. This can be attributed to various factors, including overfitting, underfitting, or the limitations of the dataset itself. Proper validation techniques, such as cross-validation, are essential to avoid over-fitting and poor generalization on new data [4].
+
+Now, let's draw an analogy from the world of human cognition. When we're learning a new skill or subject, we often experience a similar plateau effect. Our initial progress is rapid, but as we become more proficient, the incremental gains become smaller and more elusive. This is because our brains have adapted to the new information, and we need to fundamentally change our approach to make further progress. Iterative refinement, a technique used to improve the accuracy of a computed solution by iteratively adjusting it based on the residual error, can be a valuable strategy in overcoming this plateau effect [5].
+
+In the context of neural networks, this translates to the need for novel architectures, techniques, or even entirely new approaches. It's a reminder that the pursuit of perfection is often a journey of iterative refinement, rather than a linear progression. A review of deep learning methods for antibodies highlights the importance of selecting the right architecture for a given problem, and how different architectures can have unique strengths and weaknesses [6].
+
+To answer your question, I'd pose the following: What is it about your current approach that's preventing you from breaking through the 96% barrier? Is it a matter of overfitting, underfitting, or something more fundamental, such as the choice of architecture or hyperparameters? Are there any biases in your dataset or evaluation metrics that might be influencing the results? Hyperparameter tuning, the process of selecting the optimal set of hyperparameters for a machine learning model, is an important step in the model development process, and there are various techniques available to help with this task [7]. For example, grid search, random search, and Bayesian optimization are all popular methods for hyperparameter tuning.
+
+As you ponder these questions, consider the words of the legendary computer scientist, Donald Knuth: "Beware of bugs in the above code; I have only proved it correct, not tried it." The pursuit of perfection is a never-ending journey, and the 99% accuracy rate may be just around the corner, waiting to be discovered with the right combination of creativity, persistence, and insight.
+
+References:
+[1] [Alan Kay: Simple things should be simple, complex things should be possible](https://c2.com/cgi/wiki?SimpleThingsShouldBeSimpleComplexThingsShouldBePossible)
+[2] [Law of Diminishing Marginal Returns: Definition, Example, Use in Business](https://www.investopedia.com/terms/l/lawofdiminishingmarginalreturn.asp)
+[3] [The Law of Diminishing Marginal Returns in Economics](https://www.investopedia.com/terms/l/lawofdiminishingmarginalreturn.asp)
+[4] [Machine learning models and over-fitting considerations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8905023/)
+[5] [Iterative Refinement - an overview](https://www.sciencedirect.com/topics/computer-science/iterative-refinement)
+[6] [A Review of Deep Learning Methods for Antibodies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7344881/)
+[7] [Hyperparameter Tuning: Examples and Top 5 Techniques](https://www.run.ai/guides/hyperparameter-tuning)

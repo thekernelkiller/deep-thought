@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+google-generativeai
+aiohttp
+python-dotenv
+
+uvicorn main:app --reload --port 8000 & streamlit run streamlit_app.py --server.port 8501
